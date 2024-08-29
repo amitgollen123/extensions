@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json
 Join the [Discord](https://discord.gg/vut4mmXQzU) for updates and announcements
 
 and please check the discord BEFORE making an issue
-
+## colour 
 ## Contributing
 
 [Source code](https://github.com/Kohi-den/extensions-source) and [Template](https://github.com/aniyomiorg/aniyomi-extensions/blob/master/CONTRIBUTING.md)
